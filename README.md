@@ -21,5 +21,6 @@
  3. Manually run FuturePlan2 on as many computers as I can find a make static adjustments to `exclusions.txt`. 
 
 # History
- This tool was originally created on or before 2024-07-24.
- This tool was first uploaded to github/Snail51 on 2025-02-11.
+ - This tool is 100% written by Brendan Rood.
+ - This tool was originally created on or before 2024-07-24.
+ - This tool was first uploaded to github/Snail51 on 2025-02-11.
